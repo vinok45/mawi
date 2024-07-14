@@ -2,7 +2,11 @@
   "name": "mawi-app",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://vinok45.github.io/mawi",
+=======
+  "homepage": "https://vinok45.github.io/my-real-estate-app",
+>>>>>>> 9b624f7b50a382a6030e21a0b714099eba930d45
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -13,13 +17,21 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.24.1",
+<<<<<<< HEAD
     "react-scripts": "5.0.1",
+=======
+    "react-scripts": "^3.0.1",
+>>>>>>> 9b624f7b50a382a6030e21a0b714099eba930d45
     "web-vitals": "^2.1.4"
   },
   "proxy": "http://localhost:3001",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+<<<<<<< HEAD
+=======
+    "start": "react-scripts start",
+>>>>>>> 9b624f7b50a382a6030e21a0b714099eba930d45
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
